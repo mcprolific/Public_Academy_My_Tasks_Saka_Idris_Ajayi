@@ -7,7 +7,7 @@ print("B. Print the length of the word. \n")
 print(f"Length of the word: {len(txtWord)} words.")
 
 
-print("c. Check if it is all uppercase, all lowercase, or title case. \n")
+print("C. Check if it is all uppercase, all lowercase, or title case. \n")
 if txtWord.isupper():
     print("The word is in uppercase.")
 elif txtWord.islower():
