@@ -3,8 +3,9 @@
 
 fruit_store = set()
 
-for i in range(5):
-    fruit = input(f"Enter favourite fruit {i+1}: ")
+# Loop 5 times to collect fruit names from the user
+for McP in range(5): #  Ask the user 
+    fruit = input(f"Enter favourite fruit {McP+1}: ")
     fruit_store.add(fruit)
 
 # Display the set
