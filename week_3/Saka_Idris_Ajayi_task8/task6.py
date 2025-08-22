@@ -13,8 +13,6 @@ if age < 16:
 elif age > 16:
     print("You are welcome to continue your processing")
 
-
-
 # 1. UTME:
 # Candidates must score 200 or above in the UTME and choose UNILAG as their first choice.
 utme_score = int(input("Enter your UTME score: "))
