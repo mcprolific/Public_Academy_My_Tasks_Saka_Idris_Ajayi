@@ -1,0 +1,11 @@
+@@ -0,0 +1,13 @@
+# ======= GENERAL NOTICES==============
+# IF YOU WANT TO DO THIS WORK 
+# GOTO Working_wih_files2, then check this
+# Working with CSV Files -Spreadsheet like Data
+# ===============================================
+
+
+
+# save_participant: saves a participant’s details to a CSV file
+# load_participants: loads all participants from the CSV file into a list
