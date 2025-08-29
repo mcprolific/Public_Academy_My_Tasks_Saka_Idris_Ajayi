@@ -12,6 +12,8 @@ uscode_3 = "*312#"
 uscode_4 = "*321#"
 
 
+
+
 txtuscol = input("Enter your USSD Code: ")
 
 if txtuscol == "*123#" :

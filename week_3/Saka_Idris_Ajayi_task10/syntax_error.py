@@ -1,5 +1,10 @@
 # Syntax Errors
 
+# a. IndentationError – Incorrect spacing
+# b. Missing Colon/Parenthesis Error OR NameError
+# c. Invalid Syntax – General grammar mistakes.
+
+
 while True:
 
 # a. IndentationError – Incorrect spacing
